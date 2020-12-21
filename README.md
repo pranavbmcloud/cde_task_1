@@ -11,6 +11,8 @@
 ### Writes to final file
 
 
+## Thoughts
+
 ### Data could Originate from multiple sources:
 #### File from local file system
 #### File from online url
