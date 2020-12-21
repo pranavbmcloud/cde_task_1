@@ -1,7 +1,5 @@
 # cde_task_1
 
-## Project uses the Python unittest testing framework. 
-## Tests can be run using "python -m unittest" in the root
 ## Workflow:
 ### Ingests the source file
 ### Cleans the data
@@ -10,6 +8,9 @@
 ### Flattens (if required)
 ### Writes to final file
 
+
+#### Project uses the Python unittest testing framework for the tests
+#### Tests can be run using "python -m unittest" in the root
 
 ## Thoughts
 
