@@ -5,30 +5,30 @@
 
 
 ### Data could Originate from multiple sources:
-File from local file system
-File from online url
-API response
-NoSQL tables
+#### File from local file system
+#### File from online url
+#### API response
+#### NoSQL tables
 
 
 ### There could be multiple cleaning requirements:
-Malformed json, xml
+#### Malformed json, xml
 
 
 ### Data could be of multiple types:
-Text files
-Binaries
-JSON
-XML
-YAML
-sql
+#### Text files
+#### Binaries
+#### JSON
+#### XML
+#### YAML
+#### sql
 
 ### There could be a need for multiple transformations:
-JSON to XML
+#### JSON to XML
 
 
 
 ### Data might need to be sent to multiple destinations:
-Local file system
-Web endpoints
-Exposed as a REST API
+#### Local file system
+#### Web endpoints
+#### Exposed as a REST API
