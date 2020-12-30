@@ -1,12 +1,12 @@
 # cde_task_1
 
 ## Workflow:
-### Ingests the source file
-### Cleans the data
-### Creates a local clean copy
-### Processes from the clean copy
-### Flattens (if required)
-### Writes to final file
+#### Ingests the source file
+#### Cleans the data
+#### Creates a local clean copy
+#### Processes from the clean copy
+#### Flattens (if required)
+#### Writes to final file
   
 ## Usage
 #### Please change the input_file variable in the main.py module to choose the file to process
