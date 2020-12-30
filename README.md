@@ -9,6 +9,9 @@
 ### Writes to final file
 
 
+### Please change the input_file variable in the main.py module to choose the file to process
+
+
 #### Project uses the Python unittest testing framework for the tests
 #### Tests can be run using "python -m unittest" in the root
 
