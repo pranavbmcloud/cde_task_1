@@ -7,14 +7,14 @@
 ### Processes from the clean copy
 ### Flattens (if required)
 ### Writes to final file
- 
+  
 ## Usage
-### Please change the input_file variable in the main.py module to choose the file to process
- 
+#### Please change the input_file variable in the main.py module to choose the file to process
+  
 ## Tests
 #### Project uses the Python unittest testing framework for the tests
 #### Tests can be run using "python -m unittest" in the root
- 
+  
 ## Thoughts
 
 ### Data could Originate from multiple sources:
